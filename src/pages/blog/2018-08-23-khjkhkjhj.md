@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: khjkhkjhj
+title: click me
 date: '2018-08-22T13:55:22+03:00'
 description: |-
   jkhjkhkjasdasdasdaDasD
